@@ -1,3 +1,3 @@
 # Achievements
 
-  This repository includes the courses I have completed and the certificates I have earned from different world-renowned institutions.
+  This repository includes the courses i have completed and the certificates i have earned from different world-renowned institutions.
