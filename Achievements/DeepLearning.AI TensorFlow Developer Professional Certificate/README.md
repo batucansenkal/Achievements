@@ -17,5 +17,5 @@ By the end of this program, you will be ready to:
 
 ![Coursera UQAZ6EBV2TBW-1](https://user-images.githubusercontent.com/67929803/150994574-043eb957-b332-401f-a88d-c9b411579652.png)
 
-**Verify this certificate:** [a link](https://coursera.org/verify/professionalcert/UQAZ6EBV2TBW)
+[**Verify this certificate:**](https://coursera.org/verify/professionalcert/UQAZ6EBV2TBW)
 
