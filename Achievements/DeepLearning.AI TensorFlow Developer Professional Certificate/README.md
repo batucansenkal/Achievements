@@ -13,3 +13,4 @@ By the end of this program, you will be ready to:
 * Teach machines to understand, analyze, and respond to human speech with natural language processing systems
 * Process text, represent sentences as vectors, and train a model to create original poetry.
 
+![Coursera UQAZ6EBV2TBW-1](https://user-images.githubusercontent.com/67929803/150994574-043eb957-b332-401f-a88d-c9b411579652.png)
